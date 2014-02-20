@@ -1,16 +1,12 @@
 {
-  "name": "zeroes-reinpk",
+  "name": "reinpk-zeroes",
+  "description": "Array zeroes utility",
   "version": "0.0.1",
-  "license": "MIT",
-  "description": "Zeroes array utility",
+  "keywords": [
+    "array",
+    "zeroes",
+    "utility"
+  ],
   "dependencies": {},
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "zeroes/index.js": "index.js"
-    }
-  }
+  "license": "MIT"
 }
